@@ -7,6 +7,7 @@ sudo apt update -y
 
 sudo apt install ansible -y
 
+#Install OpenSSH-Server in case you want to connecto you machine remotely with an SSH client
 sudo apt install openssh-server -y
 
 #Then pull this repository:
