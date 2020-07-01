@@ -1,7 +1,7 @@
 # docker-ansible
 # docker-ansible Instructions
 
-Run the following commands in your teminal as ROOT or Sudo
+#Run the following commands in your teminal as ROOT or using "sudo"
 
 sudo apt update -y
 
@@ -9,7 +9,7 @@ sudo apt install ansible -y
 
 sudo apt install openssh-server -y
 
-Then pull this repository:
+#Then pull this repository:
 
 sudo git clone https://github.com/trainerboris/docker-ansible.git
 
